@@ -107,7 +107,7 @@ class: text-center grid grid-cols-1 justify-center items-center h-full bg-black
 <!-- Diapositiva 7: Historia de la IA -->
 ---
 layout: image-right
-image: /path/to/asistente-medico.jpg
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/2ai-movies.png
 class: text-left
 ---
 
@@ -165,7 +165,7 @@ class: text-left
 <!-- Diapositiva 9: Creando contenido en Redes Sociales con IA -->
 ---
 layout: image-right
-image: https://s3.us-east-1.amazonaws.com/bricks.lat/oscar.png
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/crear-con-ai.png
 class: text-left
 ---
 
@@ -201,7 +201,7 @@ Video
 <!-- Diapositiva 10: ¿Qué es Prompt Engineering? -->
 ---
 layout: image-right
-image: https://s3.us-east-1.amazonaws.com/bricks.lat/oscar.png
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/crear-imagenes.png
 class: text-left
 ---
 # Prompt Engineering
@@ -234,7 +234,7 @@ class: text-left
 <!-- Diapositiva 11: Texto con IA -->
 ---
 layout: image-right
-image: https://s3.us-east-1.amazonaws.com/bricks.lat/oscar.png
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/texto-ai.png
 class: text-left
 ---
 # Texto con IA
@@ -760,7 +760,7 @@ Google Veo 3 - Videos realistas desde texto
 <br />
 
 <div v-click>
-Google Veo 3 - Videos realistas desde texto
+HeyGen -Avatares multilingües
 </div>
 
 
@@ -843,7 +843,7 @@ transition: slide-up
 <!-- Diapositiva 3: DISCLAIMER3 -->
 ---
 layout: image-right
-image: https://s3.us-east-1.amazonaws.com/bricks.lat/astrobot-oscar.png
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/podcast-ai.png
 class: text-center flex items-center justify-center h-full
 transition: slide-up
 ---
@@ -854,7 +854,7 @@ transition: slide-up
 <!-- Diapositiva 3: DISCLAIMER3 -->
 ---
 layout: image-right
-image: https://s3.us-east-1.amazonaws.com/bricks.lat/astrobot-oscar.png
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/youtube-ai.png
 class: text-center flex items-center justify-center h-full
 transition: slide-up
 ---
@@ -864,7 +864,7 @@ transition: slide-up
 <!-- Diapositiva 3: DISCLAIMER3 -->
 ---
 layout: image-right
-image: https://s3.us-east-1.amazonaws.com/bricks.lat/astrobot-oscar.png
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/movie-ai.png
 class: text-center flex items-center justify-center h-full
 transition: slide-up
 ---
@@ -875,7 +875,7 @@ transition: slide-up
 <!-- Diapositiva 3: DISCLAIMER3 -->
 ---
 layout: image-right
-image: https://s3.us-east-1.amazonaws.com/bricks.lat/astrobot-oscar.png
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/videojuego-ai.png
 class: text-center flex items-center justify-center h-full
 transition: slide-up
 ---
@@ -886,7 +886,7 @@ transition: slide-up
 <!-- Diapositiva 3: DISCLAIMER3 -->
 ---
 layout: image-right
-image: https://s3.us-east-1.amazonaws.com/bricks.lat/astrobot-oscar.png
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/paginaweb-ai.png
 class: text-center flex items-center justify-center h-full
 transition: slide-up
 ---
@@ -902,7 +902,25 @@ class: text-center flex items-center justify-center h-full
 transition: slide-up
 ---
 
-# ¿Cual es tu idea? Hazla realidad!
+# ¿Cuál es tu idea? ¡Hazla realidad!
+
+<!-- Diapositiva 8: Terminator -->
+---
+layout: image-right
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/terminator.png
+class: text-left
+---
+
+# Terminator
+
+> ¿Ciencia ficción o realidad?
+
+<br /><br /><br /><br />
+<div v-click>
+  <h3 class="text-4xl font-bold text-center"> SINGULARITY</h3>
+</div>
+
+<br />
 
 <!-- Diapositiva 4: Oscar Barajas  -->
 ---
