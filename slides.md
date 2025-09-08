@@ -153,13 +153,115 @@ class: text-left
 <!-- Diapositiva 8: Terminator -->
 ---
 layout: image-right
-image: https://s3.us-east-1.amazonaws.com/bricks.lat/terminator.png
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/crear-imagenes.png
 class: text-left
 ---
 
-# Terminator
+# Apps vs. modelos
+<br />
 
-> ¿Ciencia ficción o realidad?
+**Apps de chat más populares hoy:**
+- ChatGPT
+- Claude (Anthropic)
+- Gemini (Google)
+
+<br >
+
+**Modelos de inferencia vs. razonamiento:**
+
+- **Inferencia** = responde directo (más rápido)
+- **Razonamiento** = "piensa primero" (más lento, mejor en problemas complejos)
+
+
+<!-- Diapositiva 13: Cómo funciona la IA -->
+---
+layout: image-right
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/ai-brain.png
+class: text-left
+---
+
+# 🧠 Cómo funciona la IA
+<br />
+
+- La IA se inspira en el **cerebro humano**.  
+- Usa **redes neuronales artificiales** para procesar información.  
+- Cada “neurona” recibe datos, los combina y pasa el resultado a otras.  
+- Millones de estas conexiones permiten reconocer patrones y generar respuestas.
+
+
+<!-- Diapositiva 14: Cómo deduce lo que dice -->
+---
+layout: image-right
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/neurons.png
+class: text-left
+---
+
+# 🤖 Cómo deduce lo que dice
+<br />
+
+- El modelo **predice la siguiente palabra** según el contexto.  
+- Cada predicción se ajusta con **probabilidades**.  
+- El proceso ocurre en milisegundos y parece “pensamiento”.  
+- Entre más datos y entrenamiento, **mejor calidad en las respuestas**.
+
+
+<!-- Diapositiva 15: Cómo funciona ChatGPT -->
+---
+layout: full
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/chatgpt-brain.png
+class: text-left
+---
+
+# ⚙️ Así funciona ChatGPT
+
+<div v-click>
+
+**1. Entrada → tokens**
+</div>
+
+<div v-click>
+El texto se convierte en fragmentos numéricos (tokens).
+</div>
+
+<div v-click>
+
+**2. Capas de neuronas artificiales**  
+</div>
+
+<div v-click>
+
+Cada capa procesa patrones y señales parciales.  
+Ninguna “neurona” entiende todo el texto por sí sola.
+
+</div>
+
+<div v-click>
+
+**3. Acumulación de señales**  
+</div>
+
+<div v-click>
+
+Las capas combinan lo aprendido: estilo, contexto, coherencia.
+
+</div>
+
+<div v-click>
+
+**4. Predicción de la siguiente palabra**  
+</div>
+
+<div v-click>
+
+El modelo calcula probabilidades y escoge la más coherente.  
+Ejemplo: *“Medellín es…” → innovación (55%), cultura (20%), ciudad (15%)*.
+
+<br />
+</div>
+
+<div v-click>
+👉 Miles de millones de parámetros hacen que la respuesta parezca “pensamiento”.
+</div>
 
 
 <!-- Diapositiva 9: Creando contenido en Redes Sociales con IA -->
@@ -231,6 +333,69 @@ class: text-left
 </div>
 
 
+<!-- Diapositiva 9: Anatomía del Prompt -->
+---
+layout: full
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/prompt-anatomy.png
+class: text-left
+---
+
+# 🧩 Anatomía de un Prompt
+<br />
+
+<div v-click>
+
+**Elementos principales:**
+</div>
+
+<div v-click>
+
+- **Contexto:** información base para guiar la respuesta.
+- **Instrucción:** lo que quieres que el modelo haga.
+- **Formato esperado:** cómo debe estructurarse la salida.
+- **Restricciones:** límites de estilo, tono o longitud.
+- **Ejemplos (opcional):** muestras que aclaran la intención.
+
+</div>
+<br />
+
+<div v-click>
+
+**Ejemplo simplificado:**
+</div>
+
+<div v-click>
+
+> "Eres un profesor de historia. Explica la Revolución Francesa en 3 párrafos, con tono accesible para principiantes."
+</div>
+
+
+<!-- Diapositiva 10: Anatomía del Prompt en Medellín -->
+---
+layout: full
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/medellin.png
+class: text-left
+---
+
+# 🧩 Anatomía de un Prompt
+<br />
+
+**1. Contexto**
+“Eres un guía turístico local en Medellín, Colombia, especializado en historia y cultura de la ciudad.”
+
+**2. Instrucción**
+“Explica la transformación de Medellín en los últimos 30 años.”
+
+**3. Formato esperado**
+“Redacta la respuesta en 4 párrafos breves, con viñetas al final que resuman los puntos clave.”
+
+**4. Restricciones**
+“Usa un tono inspirador, accesible para turistas extranjeros, y evita lenguaje técnico urbano.”
+
+**5. Ejemplos**
+“Por ejemplo: ‘Medellín pasó de ser reconocida por la violencia de los 90 a convertirse en un centro de innovación y turismo cultural…’”
+
+
 <!-- Diapositiva 11: Texto con IA -->
 ---
 layout: image-right
@@ -262,6 +427,62 @@ class: text-left
     </div>
   </div>
 </div>
+
+
+<!-- Diapositiva 11: Importancia de la IA en el trabajo -->
+---
+layout: full
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/ai-writing.png
+class: text-left
+---
+
+# ✍️ Importancia de generar texto con IA
+<br />
+
+<div v-click>
+
+  - La IA acelera la **comunicación escrita**.
+</div>
+
+<div v-click>
+
+  - Ayuda a reducir el **tiempo en tareas repetitivas**.
+</div>
+
+<div v-click>
+
+  - Facilita **expresar ideas con claridad**.
+</div>
+
+<div v-click>
+
+- Permite **prototipar y mejorar documentos** rápidamente.
+</div>
+
+<div v-click>
+
+  - Libera espacio para la **creatividad y el pensamiento crítico**.
+</div>
+
+
+<!-- Diapositiva 12: Usos en el día a día -->
+---
+layout: full
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/worker-ai.png
+class: text-left
+---
+
+# 🚀 Usos que potencian tu día
+<br />
+
+**Aplicaciones prácticas:**
+- Redacción de correos claros y rápidos.
+- Síntesis de reuniones o documentos largos.
+- Creación de presentaciones y reportes iniciales.
+- Generación de ideas para proyectos o campañas.
+- Traducción y adaptación de textos a distintos públicos.
+- Generación de contenido para redes sociales.
+- Organizar finanzas personales.
 
 
 <!-- Diapositiva 12: Educar con AI -->
@@ -907,17 +1128,40 @@ transition: slide-up
 <!-- Diapositiva 8: Terminator -->
 ---
 layout: image-right
-image: https://s3.us-east-1.amazonaws.com/bricks.lat/terminator.png
+image: https://s3.us-east-1.amazonaws.com/bricks.lat/crear-imagenes.png
 class: text-left
 ---
 
-# Terminator
+# Consejos prácticos
 
-> ¿Ciencia ficción o realidad?
+<br />
 
-<br /><br /><br /><br />
 <div v-click>
-  <h3 class="text-4xl font-bold text-center"> SINGULARITY</h3>
+- No te cases con una sola herramienta. Compáralas y ponlas a competir.
+</div>
+
+<br />
+
+<div v-click>
+- Paga las versiones pro (son baratas vs. el valor).
+</div>
+
+<br />
+
+<div v-click>
+- Mantén criterio humano y ciclo de evaluación continua.
+</div>
+
+<br />
+
+<div v-click>
+- Aprende a programar.
+</div>
+
+<br />
+
+<div v-click>
+- Si dominas esto, ofrece automatización con IA a empresas: hay demanda.
 </div>
 
 <br />
@@ -938,7 +1182,12 @@ transition: slide-up
 <br />
 
 <div v-click>
-<h3> @gndx en todas mis redes sociales</h3>
+<h3> <strong>@gndx</strong> en todas mis redes sociales</h3>
+</div>
+<br />
+
+<div v-click>
+<h3>github.com/gndx/gndx-slides</h3>
 </div>
 
 <br />
